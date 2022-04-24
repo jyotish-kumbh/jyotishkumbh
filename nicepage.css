@@ -34756,33 +34756,33 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header {
-    min-height: 100px;
+    min-height: 108px;
   }
 
   .u-header .u-image-1 {
     width: 56px;
     height: 55px;
-    margin-top: 28px;
-    margin-left: 0;
+    margin-top: 27px;
+    margin-left: calc(((100% - 340px) / 2));
   }
 
   .u-header .u-social-icons-1 {
-    margin-top: -74px;
-    margin-right: 0;
+    margin-top: -72px;
+    margin-right: calc(((100% - 340px) / 2) + 13px);
     margin-left: auto;
   }
 
   .u-header .u-menu-1 {
     width: auto;
     margin-top: 4px;
-    margin-right: calc(((100% - 340px) / 2) + -44px);
+    margin-right: calc(((100% - 340px) / 2));
     margin-left: auto;
   }
 
   .u-header .u-text-1 {
     font-size: 1.5rem;
     width: auto;
-    margin: -42px calc(((100% - 340px) / 2) + 64px) 26px calc(((100% - 340px) / 2) + 36px);
+    margin: -38px calc(((100% - 340px) / 2) + 105px) 21px calc(((100% - 340px) / 2) + 71px);
   }
 }
 .u-footer .u-sheet-1 {
