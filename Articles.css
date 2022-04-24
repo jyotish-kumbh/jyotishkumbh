@@ -29,7 +29,9 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-text-1 {
-    margin-right: 0;
-    margin-left: 25px;
+    width: auto;
+    margin-top: 26px;
+    margin-right: -68px;
+    margin-left: 93px;
   }
 }
